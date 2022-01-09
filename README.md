@@ -4,6 +4,11 @@ Aproveita que está aqui dando uma olhada e me segue no insta https://www.instag
 
 Bem vindo ao perfil do Bruxão kkkk
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elienay-Alves&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elienay-Alves)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elienay-Alves&show_icons=true&count_private=true&theme=dark" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elienay-Alves&layout=compact&theme=dark" />
+</a>
