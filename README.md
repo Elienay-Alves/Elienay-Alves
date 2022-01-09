@@ -3,7 +3,7 @@
 
 <div>
   <img src='https://github.com/Elienay-Alves/Elienay-Alves/blob/main/the-witcher_git.png' alt='geraldão de rivia' height='400' align='left'>
-  Me chamo Elienay Alves e estudo desenvolvimento Web na [Trybe](https://www.betrybe.com/). Amo aprender coisas novas sobre JavaScript(minha linguagem favorita!) então você vai ver  bastantes projetos com JS e algumas de suas bibliotecas e frameworks por aqui. Garanto que você vai encontrar muitos commits divertidos, bem explicadinhos, projetos e cursos que gosto de fazer quando estou livre, que podem com certeza te dar uma noção de como gosto da arte de programar.
+  Me chamo Elienay Alves e estudo desenvolvimento Web na <a href='https://www.betrybe.com/' target='blank'>Trybe</a>. Amo aprender coisas novas sobre JavaScript(minha linguagem favorita!) então você vai ver  bastantes projetos com JS e algumas de suas bibliotecas e frameworks por aqui. Garanto que você vai encontrar muitos commits divertidos, bem explicadinhos, projetos e cursos que gosto de fazer quando estou livre, que podem com certeza te dar uma noção de como gosto da arte de programar.
 </div>
 
  Sinta-se a vontade para olhar e ajudar. qualquer coisa entre em contato comigo 😊.
