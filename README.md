@@ -3,3 +3,5 @@ Bem vindos ao meu perfil! Vamos lá, me chamo Elienay Alves e estudo desenvolvim
 Aproveita que está aqui dando uma olhada e me segue no insta https://www.instagram.com/elienayalvez/ ou me adiciona no linkedin https://www.linkedin.com/in/elienayalves/ blz.
 
 Bem vindo ao perfil do Bruxão kkkk
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elienay-Alves&show_icons=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
