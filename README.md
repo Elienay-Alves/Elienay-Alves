@@ -1,6 +1,6 @@
 ### Eu sou o Elienay Alves
 #### Bem Vindo ao Perfil do Bruxo
-![Bem Vindo ao Perfil do Bruxo](https://github.com/Elienay-Alves/Elienay-Alves/blob/main/bannertw3.jpg)
+![Bem Vindo ao Perfil do Bruxo](https://github.com/Elienay-Alves/Elienay-Alves/blob/main/the-witcher_git.png)
 
 Me chamo Elienay Alves e estudo desenvolvimento Web na Trybe. Amo aprender coisas novas sobre JavaScript(minha linguagem favorita!) então você vai ver  bastantes projetos com JS e algumas de suas bibliotecas e frameworks por aqui. 
 
