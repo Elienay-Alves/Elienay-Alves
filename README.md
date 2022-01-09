@@ -2,7 +2,7 @@
 #### Bem Vindo ao Perfil do Bruxo
 <!-- ![Bem Vindo ao Perfil do Bruxo](https://github.com/Elienay-Alves/Elienay-Alves/blob/main/the-witcher_git.png) -->
 
-<img src='https://github.com/Elienay-Alves/Elienay-Alves/blob/main/the-witcher_git.png' alt='github' target='blank' height='500'>
+<img src='https://github.com/Elienay-Alves/Elienay-Alves/blob/main/the-witcher_git.png' alt='geraldão de rivia' height='400'>
 
 Me chamo Elienay Alves e estudo desenvolvimento Web na Trybe. Amo aprender coisas novas sobre JavaScript(minha linguagem favorita!) então você vai ver  bastantes projetos com JS e algumas de suas bibliotecas e frameworks por aqui. 
 
