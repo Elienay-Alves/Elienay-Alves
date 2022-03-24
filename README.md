@@ -8,7 +8,7 @@
 
  Sinta-se a vontade para olhar e ajudar. qualquer coisa entre em contato comigo 😊.
 
-Skills de Bruxo: JS / HTML / CSS
+Skills de Bruxo: JS / REACT / HTML / CSS /
 
 - 🔭 Atualmente estou trabalhando em me tornar um desenvolvedor melhor pra trabalhar na sua empresa 😉 
 - 🌱 Estou aprendendo a desenvolver sites lindos e dinâmicos 
